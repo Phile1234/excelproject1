@@ -28,20 +28,13 @@ The dataset contains:
 - Daily Sales
 - Total Sales
 - Sales Target
-- Target Achievement 
+- Target Achievement
+-  
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboardss.png)
 
 ## Project File
-
 The complete Excel dashboard project is available in this repository:
-
-## Project File
-
-The complete Excel dashboard project is available in this repository:
-
 - excel-sales-dashboard.xlsm
-
 Download and open the file in Microsoft Excel to explore the dashboard, Pivot Tables, charts, slicers, and KPI analysis.
 
-Download and open the file in Microsoft Excel to explore the dashboard, Pivot Tables, charts, slicers, and KPI analysis.
