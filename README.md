@@ -29,7 +29,7 @@ The dataset contains:
 - Total Sales
 - Sales Target
 - Target Achievement
--  
+
 ## Dashboard Preview
 ![Dashboard](dashboardss.png)
 
